@@ -24,7 +24,7 @@ php artisan key:generate
 npm i
 npm run watch
 
-# You can also see the demo site that I uploaded on 000webhost, but it can't handle 'PUT' and 'DELETE' for some server conf reasons.
+# You can also see the demo site that I uploaded on 000webhost, but it can't handle 'PUT' and 'DELETE' methods for some server conf reasons.
 https://alice-works.000webhostapp.com/
 ```
 
